@@ -2,11 +2,17 @@
 ![Nullfunctionlogo](https://github.com/moonchangin/nullfuction/blob/master/Image%20from%20iOS.jpg)
 
 Saikrithika Gandhi (Drug discovery) Researcher, saikrithi@gmail.com
+
 Xiucheng Quek (PPI network) DNAnexus, xquek@dnanexus.com
+
 Xiaowei Zhu (Burden test, PPI network), Stanford University, xwzhu@stanford.edu
+
 Chang In Moon (RNA analysis, presenter), Washington University in St. Louis, moonchangin@wustl.edu 
+
 Xiangying Sun (RNA analysis), Thermo Fisher
+
 Tiange Alex Cui (RNA analysis, Team logo), Cofactor Genomics, alextreecn@gmail.com
+
 Lu Yang (Drug discovery), Stanford University, luy@stanford.edu
 
 ## Presented Work @ CTF NF Conference 2019
