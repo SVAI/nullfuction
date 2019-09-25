@@ -1,6 +1,20 @@
 ## TEAM NULLFUNTION 
 ![Nullfunctionlogo](https://github.com/moonchangin/nullfuction/blob/master/Image%20from%20iOS.jpg)
 
+Saikrithika Gandhi (Drug discovery) Researcher, saikrithi@gmail.com
+
+Xiucheng Quek (PPI network) DNAnexus, xquek@dnanexus.com
+
+Xiaowei Zhu (Burden test, PPI network), Stanford University, xwzhu@stanford.edu
+
+Chang In Moon (RNA analysis, presenter), Washington University in St. Louis, moonchangin@wustl.edu 
+
+Xiangying Sun (RNA analysis), Thermo Fisher
+
+Tiange Alex Cui (RNA analysis, Team logo), Cofactor Genomics, alextreecn@gmail.com
+
+Lu Yang (Drug discovery), Stanford University, luy@stanford.edu
+
 ## Presented Work @ CTF NF Conference 2019
 ![CTF_NF_CONF](https://github.com/moonchangin/nullfuction/blob/master/CTF_LOGO.png)
 
@@ -88,7 +102,7 @@ https://sv.ai/neurofibromatosis
 23.	Yu, J., et al., Array-based comparative genomic hybridization identifies CDK4 and FOXM1 alterations as independent predictors of survival in malignant peripheral nerve sheath tumor. Clin Cancer Res, 2011. 17(7): p. 1924-34.
 24.	Holtkamp, N., et al., Differentially expressed genes in neurofibromatosis 1-associated neurofibromas and malignant peripheral nerve sheath tumors. Acta Neuropathol, 2004. 107(2): p. 159-68.
 25.	Fang, Y., et al., Molecular characterization of permanent cell lines from primary, metastatic and recurrent malignant peripheral nerve sheath tumors (MPNST) with underlying neurofibromatosis-1. Anticancer Res, 2009. 29(4): p. 1255-62.
-
+26. Veytsman, B., et al., Distance-based classifiers as potential diagnostic and prediction tools for human diseases.  BMC genomics, 2014. 15 (12), S10
 
 ## Reproduction: *How to reproduce the findings!*
 
